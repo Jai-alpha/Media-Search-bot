@@ -24,7 +24,7 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 # Messages
 START_MSG = """
 **Hi, I'm @SERIES4US Media bot. 
-Join @SERIES4USgrp**
+Join @SERIES4USGroup**
 
 Here you can search Series in inline mode. Just press follwing buttons and start searching.
 """
