@@ -29,5 +29,5 @@ Join @SERIES4USGroup**
 Here you can search Series in inline mode. Just press follwing buttons and start searching.
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'Please join @.... to use this bot'
+SHARE_BUTTON_TEXT = 'Checkout @SERIES4USGroup for searching files'
+INVITE_MSG = 'Please join @SERIES4USGroup to use this bot'
